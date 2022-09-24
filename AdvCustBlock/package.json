@@ -1,0 +1,17 @@
+{
+  "name": "myguten-block",
+  "version": "1.0.0",
+  "description": "custom_blocks",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "plugin-zip": "wp-scripts plugin-zip"
+  
+  },
+  "author": "Edgar",
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "22.4.0"
+  }
+}
